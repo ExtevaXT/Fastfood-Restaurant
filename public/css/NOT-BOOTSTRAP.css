@@ -1,0 +1,59 @@
+.flex{
+    display: flex;
+}
+body{
+    margin: 0 auto;
+    max-width: 1400px;
+    padding-top: 20px;
+}
+*{
+    font-size: 20px;
+    font-family: Arial;
+}
+.nav-link{
+    padding: 30px;
+}
+input{
+    margin: 10px;
+}
+button{
+    width: 200px;
+    margin: 10px;
+}
+.form-label{
+    display: flex;
+    padding-left: 20px;
+}
+.navbar-toggler{
+    display: none;
+}
+a{
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+.navbar-brand{
+    display: none;
+}
+.p-3{
+    padding: 30px;
+}
+.w-100{
+    width: 100%;
+}
+.w-25{
+    width: 25%;
+}
+.m-3{
+    margin: 30px;
+}
+.btn.w-100{
+    width: 250px !important;
+}
+td, th{
+    padding: 15px;
+}
+a.btn{
+    padding: 5px;
+}
